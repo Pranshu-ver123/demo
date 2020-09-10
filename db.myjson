@@ -1,0 +1,16 @@
+{
+  "team": [
+    {
+      "name": "Pranshu",
+      "age": 20
+    },
+    {
+      "name": "Raju",
+      "age": 25
+    },
+    {
+      "name": "Raaz",
+      "age": 25
+    }
+  ]
+}
